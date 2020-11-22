@@ -12,9 +12,13 @@ My Hackintosh OpenCore configuration
 - Tools you may need:
   - [PropertyTree](https://github.com/corpnewt/ProperTree)
   - [MaciASL](https://github.com/acidanthera/MaciASL/releases)
+  - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
   
 
 ### Limitations of this config
 
 - It is only meant for Gigabytes Z390i Pro Wifi motherboard.
 - It doesn't contain any wireless or bluetooth add-ons since I don't have a wireless card right now... :(
+
+## Note
+**Do not forget to put your own generated serial numbers in the config.plist file!!!**
